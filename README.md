@@ -2,7 +2,7 @@
 
 Like a Swiss Army Knife CLI for developers – written in Node.js.
 Will grow with my personal daily life as a developer. Maybe over time
-it might be usefull for others as well. 
+it might be useful for others as well. 
 
 ## Features
 

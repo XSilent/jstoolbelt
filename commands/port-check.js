@@ -1,5 +1,5 @@
 /**
- * port-check
+ * command: port-check
  */
 import { createServer } from 'net';
 
