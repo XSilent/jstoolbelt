@@ -20,7 +20,8 @@ npm link
 ## Usage
 
 ```bash
-jstoolbelt docker-info
+jstoolbelt docker-info mycontainer
+jstoolbelt docker-info mycontainer Config.Env
 jstoolbelt port-check 8080
 ```
 
