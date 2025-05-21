@@ -1,0 +1,12 @@
+{
+  "name": "jstoolbelt",
+  "version": "1.0.0",
+  "description": "Like a Swiss Army Knife CLI",
+  "bin": {
+    "jstoolbelt": "bin/cli.js"
+  },
+  "dependencies": {
+    "commander": "^14.0.0"
+  },
+  "type": "module"
+}
