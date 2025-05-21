@@ -6,7 +6,7 @@ it might be usefull for others as well.
 
 ## Features
 
-- `docker-info`: Show environment variables of a container (set via ENV: `CONTAINER`)
+- `docker-info <container-name>`: Show environment variables of a container
 - `port-check <port>`: Check if a given port is available on your machine
 
 ## Installation
